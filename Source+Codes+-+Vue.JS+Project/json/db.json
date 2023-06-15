@@ -1,0 +1,46 @@
+{
+  "username": [
+    {
+      "username": "jon",
+      "password": 4572,
+      "email": "jon@gmail.com",
+      "id": 1
+    },
+    {
+      "username": "carlos",
+      "password": 554445,
+      "email": "carlos@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "josh",
+      "password": "josh",
+      "email": "",
+      "id": 3
+    },
+    {
+      "name": "tony",
+      "password": "tont1234`",
+      "email": "tony@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "peter123",
+      "password": "adfjaskdljf34",
+      "email": "peter@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 8
+    },
+    {
+      "name": "lkasfgkjlajksdf",
+      "password": "kasdflkasdfjskap34",
+      "email": "a",
+      "id": 9
+    }
+  ]
+}
